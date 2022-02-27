@@ -11,4 +11,4 @@ Inrested in Java Development :)
 | Code Challenge |[Link](https://github.com/HadeelDaragmeh158/reading-notes/blob/main/ProblemClass01.md)|
 | Read: 01 |[Link](https://github.com/HadeelDaragmeh158/reading-notes/blob/main/ProblemClass01.md)|
 | Read: 02 |[Link](https://github.com/HadeelDaragmeh158/reading-notes/blob/main/ProblemClass01.md)|
-| Read: 03 |[Link]|
+| Read: 03 |[Link](https://github.com/HadeelDaragmeh158/reading-notes/blob/main/ProblemClass01.md)|
