@@ -29,3 +29,13 @@ Class declarations can include these components, in order:
 
 # _______________________________________________
 # Binary, Decimal and Hexadecimal Numbers
+
+#### Decimals
+  Each digit in a decimal number has a Position,Every position further to the left is 10 times bigger, and every position further to the right is 10 times smaller.
+  
+#### Binary  
+  "Base 2"
+  
+#### Hexadecimal Numbers  
+  They look the same as the decimal numbers up to 9, but then there are the letters ("A',"B","C","D","E","F") in place of the decimal numbers 10 to 15.
+  
