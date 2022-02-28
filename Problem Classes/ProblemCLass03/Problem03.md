@@ -1,10 +1,10 @@
-##___________________________________________________
-#Binary search
-##___________________________________________________
+## ___________________________________________________
+#   Binary search
+## ___________________________________________________
 
 The algorithm compares the key value with the middle element of the array; if they are unequal, the half in which the key cannot be part of is eliminated, and the search continues for the remaining half until it succeeds.
 
-####Java provides three ways to perform a binary search:
+#### Java provides three ways to perform a binary search:
 - Using the iterative approach
 - Using a recursive approach
 - Using Arrays.binarySearch () method.
