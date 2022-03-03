@@ -1,5 +1,5 @@
 # _________________________________________________
-# Object-Oriented Programming Concepts
+# Inheritance And Interfaces
 
 
 OOP is one of the most fundamental programming concepts. Let’s explore the four main OOP concepts in Java and discuss how each works.
