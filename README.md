@@ -7,7 +7,7 @@ Inrested in Java Development :)
 | Title  | Link |
 | --- | ----------- |
 | Java Basics | Link |
-| Terminal | [Link](https://hadeeldaragmeh158.github.io/reading-notes/) |
+| Terminal | [Link](https://github.com/HadeelDaragmeh158/reading-notes/blob/main/Terminal.md) |
 
 
 | Title    |                                 The Title                                            |  Link                                  |
