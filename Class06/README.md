@@ -4,16 +4,16 @@
 
 OOP is one of the most fundamental programming concepts. Let’s explore the four main OOP concepts in Java and discuss how each works.
 
-## 1- **Object**
+## 1- ** Object **
 Real-world objects share two characteristics: They all have state and behavior.Also Software Object share two characteristics: They all have state and behavior
 
 ![Screenshot (513)](https://user-images.githubusercontent.com/97829483/156498407-4bb7255a-8d86-4586-97af-c5474d177420.png)
 
 
-## 2- **Class**
+## 2- ** Class **
  blueprint or prototype from which objects are created. it has aproperties and methods.
  
- ## 3- **Inheretance **
+ ## 3- ** Inheretance **
  it is used to organize and structure your software. it is like a class inheriting the properties and methods from another one. let's say child inherit from parent.
  in java we use Extend to inheret class or interface.
 in class Chiled  The inherited fields can be used directly, just like any other fields, you can declare a field in the subclass with the same name as the one in the 
@@ -35,7 +35,7 @@ Types of inheritance in java
  **inheritance is simple but powerful**
  
  
- ## 4- **interface **
+ ## 4- ** interface **
  
        interface Bicycle {
 
