@@ -63,6 +63,9 @@ Types of inheritance in java
  
  ## 5- **Package**
  is a group of similar types of classes, interfaces and sub-packages.
+ 
+ 
+ 
  ![download (1)](https://user-images.githubusercontent.com/97829483/156500572-77939f1c-9f66-4034-a2bf-2000e5c46b7b.png)
 
 
