@@ -36,3 +36,8 @@ How much passion you have to make your goals and dreams be true, how much you pu
 # Alain de Botton on Redefining Success.
 we shold be sure about our goals and dreams, what we want.
 Why would us want to win in a war that is not ours and won't give a benifit for us anyway?
+
+
+
+[emotional-intelligence-assessment.pdf](https://github.com/HadeelDaragmeh158/reading-notes/files/8190310/emotional-intelligence-assessment.pdf)
+
