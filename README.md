@@ -4,11 +4,14 @@ Hadeel Daragmeh, I am 23, studied *Computer Informatio System* in UJ .
 Inrested in Java Development :) 
 
 # Code 401 - Advanced Software Development
+
 | Title  | Link |
 | ------ | -----|
 | Java Basics | Link |
 | Terminal | [Link](./Terminal.md) |
 |Growth Mindset|[Link](https://github.com/HadeelDaragmeh158/reading-notes/blob/main/Growth_Mindset.md)|
+
+
 
 
 | Title    |                                 The Title                                            |  Link                                  |
