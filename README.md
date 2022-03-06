@@ -8,7 +8,7 @@ Inrested in Java Development :)
 | Title  | Link |
 | ------ | -----|
 | Java Basics | Link |
-| Terminal | [Link](./Terminal.md) |
+| Terminal | [Link](Terminal.md) |
 |Growth Mindset|[Link](https://github.com/HadeelDaragmeh158/reading-notes/blob/main/Growth_Mindset.md)|
 
 
