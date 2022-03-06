@@ -16,8 +16,8 @@ Inrested in Java Development :)
 
 | Title    |                                 The Title                                            |  Link                                  |
 | ---------|--------------------------------------------------------------------------------------|----------------------------------------|
-| Read: 01 |                                                                                      |[Link](https://github.com/HadeelDaragmeh158/reading-notes/blob/main/ProblemClass01.md)|
-| Read: 02 |                                                                                      |[Link](https://github.com/HadeelDaragmeh158/reading-notes/blob/main/ProblemClass01.md)|
+| Read: 01 |                                                                                      |[Link]()|
+| Read: 02 |                                                                                      |[Link]()|
 | Read: 03 |                        Maps, primitives, File I/O                                    |[Link](Read03.md)
 | Read: 04 |                                    OOP                                               |[Link](Read04.md)|
 | Read: 05 |                         Linked Lists And Big O                                       |[Link](Class05/README.md)|  
