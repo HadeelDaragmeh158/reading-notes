@@ -9,7 +9,7 @@ Inrested in Java Development :)
 | ------ | -----|
 | Java Basics | Link |
 | Terminal | [Link](Terminal.md) |
-|Growth Mindset|[Link](https://github.com/HadeelDaragmeh158/reading-notes/blob/main/Growth_Mindset.md)|
+|Growth Mindset|[Link](Growth_Mindset.md)|
 
 
 
@@ -18,7 +18,7 @@ Inrested in Java Development :)
 | ---------|--------------------------------------------------------------------------------------|----------------------------------------|
 | Read: 01 |                                                                                      |[Link](https://github.com/HadeelDaragmeh158/reading-notes/blob/main/ProblemClass01.md)|
 | Read: 02 |                                                                                      |[Link](https://github.com/HadeelDaragmeh158/reading-notes/blob/main/ProblemClass01.md)|
-| Read: 03 |                        Maps, primitives, File I/O                                    |[Link](https://github.com/HadeelDaragmeh158/reading-notes/blob/main/Read03.md)
-| Read: 04 |                                    OOP                                               |[Link](https://github.com/HadeelDaragmeh158/reading-notes/blob/main/Read04.md)|
-| Read: 05|Linked Lists And Big O|[Link](https://github.com/HadeelDaragmeh158/reading-notes/blob/main/Class05/README.md)|
-|Read 06  |                  Inheritance and Interfaces                                           |[Link](https://github.com/HadeelDaragmeh158/reading-notes/tree/main/Class06)|
+| Read: 03 |                        Maps, primitives, File I/O                                    |[Link](Read03.md)
+| Read: 04 |                                    OOP                                               |[Link](Read04.md)|
+| Read: 05 |                         Linked Lists And Big O                                       |[Link](./Class05/README.md)|  
+|Read 06  |                  Inheritance and Interfaces                                           |[Link](./Class06/)|
