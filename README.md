@@ -5,7 +5,7 @@ Inrested in Java Development :)
 
 # Code 401 - Advanced Software Development
 | Title  | Link |
-| --- | ----------- |
+| ------ | -----|
 | Java Basics | Link |
 | Terminal | [Link](./Terminal.md) |
 |Growth Mindset|[Link](https://github.com/HadeelDaragmeh158/reading-notes/blob/main/Growth_Mindset.md)|
