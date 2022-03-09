@@ -23,3 +23,4 @@ is a version of a product with just enough features to be usable by early custom
 and this version is not the last, it's just to try and have feedback.
 developers should potentially avoid lengthy and (ultimately) unnecessary work.
 Instead, they iterate on working versions and respond to feedback, challenging and validating assumptions about a product's requirements.
+![tinytracker_mvp](https://user-images.githubusercontent.com/97829483/157376775-a7888817-e241-4a4c-aed0-9a370115caaa.jpeg)
