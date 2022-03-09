@@ -21,4 +21,5 @@ Inrested in Java Development :)
 | Read: 03 |                        Maps, primitives, File I/O                                    |[Link](Read03.md)
 | Read: 04 |                                    OOP                                               |[Link](Read04.md)|
 | Read: 05 |                         Linked Lists And Big O                                       |[Link](Class05/README.md)|  
-|Read 06  |                  Inheritance and Interfaces                                           |[Link](Class06/README.md)|
+|Read: 06  |                  Inheritance and Interfaces                                           |[Link](Class06/README.md)|
+|Read: 08  |                                                                                      |[Link](class06/README.md)
