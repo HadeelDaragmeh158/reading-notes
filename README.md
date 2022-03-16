@@ -23,6 +23,6 @@ Inrested in Java Development :)
 | Read: 05 |                         Linked Lists And Big O                                       |[Link](Class05/README.md)|  
 |Read: 06  |                  Inheritance and Interfaces                                           |[Link](Class06/README.md)|
 |Read: 08  |                              OO Design                                               |[Link](Class08/README.md)|
-|Read: 09  |                                                                         |[Link](Class08/README.md)|
-|Read: 10  |                                                                            |[Link](Class08/README.md)|
-|Read: 11  |                                                                  |[Link](Class08/README.md)|
+|Read: 09  |                                                                         |[Link](Class09/README.md)|
+|Read: 10  |                                                                            |[Link](Class10/README.md)|
+|Read: 11  |                                                                  |[Link](Class11/README.md)|
