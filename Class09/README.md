@@ -16,3 +16,5 @@ the browser need the hostman and IP, thin it will search in cache recently reque
   
 3- Establish a TCP Connection
   client has an IP address and can using HTTP
+  
+![1_4SEvcz6KvyaqOqBpJABTBg](https://user-images.githubusercontent.com/97829483/158550288-20886864-4057-4b19-8ca6-6b774771bb09.png)
