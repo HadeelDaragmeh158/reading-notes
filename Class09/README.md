@@ -21,8 +21,8 @@ the browser need the hostman and IP, thin it will search in cache recently reque
 
 
 ## Step 4: Send an HTTP Request
-    - request line: is a line that indicates the HTTP method, the resource being requested, and the protocol version.
-    - request header: is made up of pairs in the form name:value <CR><LF>. Two consecutive <CR><LF> pairs indicate the end of the header section, it contains the domain and port that the request is being sent to (domain.com:8080).
+  - request line: is a line that indicates the HTTP method, the resource being requested, and the protocol version.
+  - request header: is made up of pairs in the form name:value <CR><LF>. Two consecutive <CR><LF> pairs indicate the end of the header section, it contains the domain and port that the request is being sent to (domain.com:8080).
     
      server receives the request, processes it, and finds the resource being requested, it generates an HTTP response.Once the response is generated, the server responds to the request. At the TCP layer, the client receives the first data packet, the first byte of which should contain the HTTP response header. 
     
