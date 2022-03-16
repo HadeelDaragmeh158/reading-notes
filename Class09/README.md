@@ -32,9 +32,9 @@ the browser need the hostman and IP, thin it will search in cache recently reque
 " Once the response has been fully delivered, the client sends a FIN packet at the TCP level, to which the server responds with an ACK, and then generally sends a FIN of its own, which the client responds to with its own ACK signal. ", after processing the four-way handshake the browser starts processing the received data according to its type and renders it. which means that we finally see what we are looking for in our browser.
 
 # Java HTTP Request example
-    in  this [link](https://www.baeldung.com/java-http-request) you can use the built-in Java class HttpUrlConnection. And you can create request.
-    The HttpUrlConnection class is used for all types of requests by setting the requestMethod attribute to one of the values: GET, POST, HEAD, OPTIONS, PUT, DELETE, TRACE.
+   in  this [link](https://www.baeldung.com/java-http-request) you can use the built-in Java class HttpUrlConnection. And you can create request.
+   The HttpUrlConnection class is used for all types of requests by setting the requestMethod attribute to one of the values: GET, POST, HEAD, OPTIONS, PUT, DELETE, TRACE.
                                           
-                                          - URL url = new URL("http://example.com");
-                                          - HttpURLConnection con = (HttpURLConnection) url.openConnection(); 
-                                          - con.setRequestMethod("GET");
+                                           URL url = new URL("http://example.com");
+                                           HttpURLConnection con = (HttpURLConnection) url.openConnection(); 
+                                           con.setRequestMethod("GET");
