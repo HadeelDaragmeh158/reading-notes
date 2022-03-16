@@ -38,3 +38,6 @@ the browser need the hostman and IP, thin it will search in cache recently reque
                                            URL url = new URL("http://example.com");
                                            HttpURLConnection con = (HttpURLConnection) url.openConnection(); 
                                            con.setRequestMethod("GET");
+
+    
+    you can add request parameters and so on.
