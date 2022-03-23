@@ -167,7 +167,8 @@ this class is example that we injects a TestRestTemplate instance and defines th
   2- Spring MVC Test Configuration
             - Enable Spring in Tests With JUnit 5.
             - The WebApplicationContext Object.
-               _@WebAppConfiguration, which will load the web application context._
+               **_@WebAppConfiguration, which will load the web application context._**
+               
    ![ServletEngine](https://user-images.githubusercontent.com/97829483/159809700-ca95f188-0751-4aa0-b59b-9687ad8e52d8.jpg)
             - Mocking Web Context Beans.
             - Verify Test Configuration
