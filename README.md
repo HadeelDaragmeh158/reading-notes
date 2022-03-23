@@ -27,4 +27,4 @@ Inrested in Java Development :)
 |Read: 10  |                    Stack  and Queue                                                  |[Link](Class10/README.md)|
 |Read: 11  |                    Spring                                                            |[Link](Class11/README.md)|
 |Read: 12  |              Spring RESTful Routing & Static Files                                   |[Link](Class12/README.md)|
-|Read: 13  |              Related Resources and Integration Testing                               |Link                     |
+|Read: 13  |              Related Resources and Integration Testing                               |[Link](Class13/README.md)|
