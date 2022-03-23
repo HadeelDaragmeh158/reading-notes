@@ -1,14 +1,14 @@
 
 
   #  _Related Resources and Integration Testing_ 
-__________________________________________________ 
+
 
 
 ### Working with Relationships in Spring Data REST
 "how to work with relationships between entities in Spring Data REST."
 
 ####   _One-To-One ( @OneToOne )_ 
-    _________________________________ 
+ 
    
  1- ** The Data Model**
   when we write it in the class that means (the other class that we mintion it have a relationship, the tipe of relation is one from my class to on efrom other.
@@ -60,7 +60,7 @@ we should consider that, the @RestResource annotation is optional and can be use
   
   
  ####  _______One-to-Many (@OneToMany)_ 
-     ____________________________________________
+  
 
 1- **The Data Model**
   we use it when we have two class one of thim are many to one from another.
@@ -93,7 +93,7 @@ we should consider that, the @RestResource annotation is optional and can be use
 
 
  ####  _______Many-to-Many (@ManyToMany)_ 
-    _________________________________________ 
+
 
 1- **The Data Model**
     in the same exampe, if we create Auther class and this Auther has a relatioship with book, we can think that, **MANY** Authers have a **MANY** Books.
@@ -126,7 +126,7 @@ we should consider that, the @RestResource annotation is optional and can be use
 
  
  ####  _______Testing the Endpoints With TestRestTemplate_ 
-       _____________________________________________________ 
+
 
             
               @RunWith(SpringRunner.class)
