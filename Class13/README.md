@@ -153,3 +153,33 @@ this class is example that we injects a TestRestTemplate instance and defines th
 
 
 
+
+### _Integration Testing in Spring_
+  its the very important role in the application development cycle by verifying the end-to-end behavior of a system.
+  
+  1- Preparation
+  
+  ![Figure-1](https://user-images.githubusercontent.com/97829483/159809170-6e9ff132-6920-407d-aec4-b03d57904d06.png)
+  
+  
+
+  
+  2- Spring MVC Test Configuration
+            - Enable Spring in Tests With JUnit 5.
+            - The WebApplicationContext Object.
+               _@WebAppConfiguration, which will load the web application context._
+   ![ServletEngine](https://user-images.githubusercontent.com/97829483/159809700-ca95f188-0751-4aa0-b59b-9687ad8e52d8.jpg)
+            - Mocking Web Context Beans.
+            - Verify Test Configuration
+            
+  3- Writing Integration Tests
+      this test we will write it to test these: 
+            - Verify View Name.
+            - Verify Response Body.
+            - Send GET Request With Path Variable.
+            - Send GET Request With Query Parameters.
+            - Send POST Request.
+            
+ 4- MockMvc Limitations
+  
+
