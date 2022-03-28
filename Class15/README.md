@@ -52,6 +52,30 @@ One strategy for adding a new node to a binary tree is to fill all “child” s
 During the traversal, we find the first node that does not have all its children filled, and insert the new node as a child. We fill the child slots from left to
 right.
 
+
+## pseudocode
+                  Input : preorder[] = {1, 2, 5, 6, 7, 3, 8, 9, 10, 4}
+                  k = 3
+                  Output : Postorder traversal of constructed 
+                           full k-ary tree is: 5 6 7 2 8 9 10 
+                           3 4 1 
+                           Tree formed is:         1
+                                               /   |   \
+                                             2     3    4
+                                            /|\   /|\
+                                           5 6 7 8 9 10
+
+                  Input : preorder[] = {1, 2, 5, 6, 7, 3, 4}
+                          k = 3 
+                  Output : Postorder traversal of constructed 
+                           full k-ary tree is: 5 6 7 2 4 3 1
+                           Tree formed is:        1
+                                               /  |  \
+                                             2    3   4
+                                            /|\   
+                                           5 6 7
+                                           
+                                           
 ### Big O
 worst case : O(n)
 best case  : O(log n)
@@ -66,6 +90,32 @@ the left side. If the value is larger, you only traverse the right side.
 we can use while loop. We cycle through the while loop until we hit a leaf, or until we reach a match with what we’re searching for.
 ![image](https://user-images.githubusercontent.com/97829483/160330309-d31116ff-9cff-4c29-888e-e4044df1ad5c.png)
 
+## pseudocode
+                    Procedure binary_search
+                       A ← sorted array
+                       n ← size of array
+                       x ← value to be searched
+
+                       Set lowerBound = 1
+                       Set upperBound = n 
+
+                       while x not found
+                          if upperBound < lowerBound 
+                             EXIT: x does not exists.
+
+                          set midPoint = lowerBound + ( upperBound - lowerBound ) / 2
+
+                          if A[midPoint] < x
+                             set lowerBound = midPoint + 1
+
+                          if A[midPoint] > x
+                             set upperBound = midPoint - 1 
+
+                          if A[midPoint] = x 
+                             EXIT: x found at location midPoint
+                       end while
+
+                    end procedure
 
 ### Bid o
 - Insertion: O(n).
