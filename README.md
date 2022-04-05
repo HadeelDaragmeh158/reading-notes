@@ -29,3 +29,4 @@ Inrested in Java Development :)
 |Read: 12  |              Spring RESTful Routing & Static Files                                   |[Link](Class12/README.md)|
 |Read: 13  |              Related Resources and Integration Testing                               |[Link](Class13/README.md)|
 |Read: 15  |                             Tree                                                     |[Link](Class15/README.md)|
+|Read: 16  |              Spring Authentication                                                   |[Link](Class16/README.md)|
