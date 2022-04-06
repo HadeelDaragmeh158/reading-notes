@@ -12,3 +12,7 @@
  
  ##Execution
  "We can see the many-to-many relationship between the two entities created in the database: the employee, project, and employee_project tables with sample data representing the relationship."
+ 
+ 
+ #Security: a humorous overview
+In this article, he shows how important it is to have secure technology in our lives and how important it is for everyone to have the ability to activate technology through things like logging in and logging out.
