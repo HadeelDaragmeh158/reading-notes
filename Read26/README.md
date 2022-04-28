@@ -9,7 +9,7 @@ You can use c++,java, and kotlin to create Android app.
         - with extention [.aab]
         - contains the contents of an Android app project including some additional metadata that is not required at runtime.
 
-![Screenshot (651)](https://user-images.githubusercontent.com/97829483/165720956-c3c82890-e494-4f88-b9ec-2531707ea39d.png)
+![Screenshot (652)](https://user-images.githubusercontent.com/97829483/165721220-479ed3c7-ca37-4ca3-8c88-3d94c0ce8791.png)
 
 
 "The Android system implements the principle of least privilege"
@@ -23,3 +23,8 @@ The rest of this document introduces the following concepts:
  - Resources that are separate from the app code and that allow your app to gracefully optimize its behavior for a variety of device configurations.
 
 # App components
+
+![Main-Components](https://user-images.githubusercontent.com/97829483/165721494-fe1bbaa6-7962-4ec4-bf2e-c414b4ce38fe.jpg)
+ ## Activites
+ Entry point for interacting with the user.
+ All  activities work together to form a cohesive user experience in the email app,but each one is independent of the others.
