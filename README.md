@@ -40,6 +40,20 @@ Inrested in Java Development :)
 | Title    |                                 The Title                                            |  Link                                  |
 | ---------|--------------------------------------------------------------------------------------|----------------------------------------|
 |Read:  26 |Android Fundamentals|[Link](Read26/README.md)|
-
-
-
+|Read:  27 | Intents, Activities, and SharedPreferences| Link|
+|Read:  28 ||Link|
+|Read:  29 ||Link|
+|Read:  30 ||Link|
+|Read:  31 ||Link|
+|Read:  32 ||Link|
+|Read:  33 ||Link|
+|Read:  34 ||Link|
+|Read:  35 ||Link|
+|Read:  36 ||Link|
+|Read:  37 ||Link|
+|Read:  38 ||Link|
+|Read:  39 ||Link|
+|Read:  40 ||Link|
+|Read:  41 ||Link|
+|Read:  42 ||Link|
+|Read:  43 ||Link|
