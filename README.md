@@ -39,7 +39,7 @@ Inrested in Java Development :)
 
 | Title    |                                 The Title                                            |  Link                                  |
 | ---------|--------------------------------------------------------------------------------------|----------------------------------------|
-|Read:  26 |Android Fundamentals||
+|Read:  26 |Android Fundamentals|[Link](Read26/README.md)|
 
 
 
