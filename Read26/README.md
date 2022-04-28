@@ -28,3 +28,12 @@ The rest of this document introduces the following concepts:
  ## Activites
  Entry point for interacting with the user.
  All  activities work together to form a cohesive user experience in the email app,but each one is independent of the others.
+
+## Services
+ is a general-purpose entry point for keeping an app running in the background for all kinds of reasons.
+ service does not provide a user interface.
+ 
+ ![Android IPC Bound Service Overview](https://user-images.githubusercontent.com/97829483/165728631-ee26bdda-eb93-48d7-8979-56372daf782a.jpg)
+## Broadcast receivers
+component that enables the system to deliver events to the app outside of a regular user flow, allowing the app to respond to system-wide broadcast announcements. 
+ ![Bcr](https://image.slidesharecdn.com/6-151015024415-lva1-app6891/95/android-broadcast-receiver-3-638.jpg?cb=1477993095)
