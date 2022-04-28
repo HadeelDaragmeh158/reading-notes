@@ -45,5 +45,16 @@ To interrupt the normal behavior of activities. You can do these things and more
   Read from shared preferences
   To retrieve values from a shared preferences file, call methods such as getInt() and getString(), providing the key for the value you want, and optionally a default value to return if the key isn't present.
 
+# Start a task
+You can set up an activity as the entry point for a task by giving it an intent filter with "android.intent.action.MAIN" as the specified action and "android.intent.category.LAUNCHER" as the specified category
+action
+       <activity ... >
+             <intent-filter ... >
+                   <action android:name="android.intent.action.MAIN" />
+                   <category android:name="android.intent.category.LAUNCHER" />
+             </intent-filter>
+        ...
+      </activity>
   
+# **Save key-value data**  
   
