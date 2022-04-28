@@ -58,3 +58,4 @@ action
   
 # **Save key-value data**  
   
+ The SharedPreferences APIs are for reading and writing key-value pairs, and you should not confuse them with the Preference APIs, which help you build a user interface for your app settings (although they also use SharedPreferences to save the user's settings). For information about the Preference APIs, see the Settings developer guide.
