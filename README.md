@@ -42,18 +42,18 @@ Inrested in Java Development :)
 |Read:  26 |Android Fundamentals|[Link](Read26/README.md)|
 |Read:  27 | Intents, Activities, and SharedPreferences| [Link](Read27/README.md)|
 |Read:  28 ||[Link]()|
-|Read:  29 ||Link|
-|Read:  30 ||Link|
-|Read:  31 ||Link|
-|Read:  32 ||Link|
-|Read:  33 ||Link|
-|Read:  34 ||Link|
-|Read:  35 ||Link|
-|Read:  36 ||Link|
-|Read:  37 ||Link|
-|Read:  38 ||Link|
-|Read:  39 ||Link|
-|Read:  40 ||Link|
-|Read:  41 ||Link|
-|Read:  42 ||Link|
-|Read:  43 ||Link|
+|Read:  29 ||[Link](url)|
+|Read:  30 ||[Link](url)|
+|Read:  31 ||[Link](url)|
+|Read:  32 ||[Link](url)|
+|Read:  33 ||[Link](url)|
+|Read:  34 ||[Link](url)|
+|Read:  35 ||[Link](url)|
+|Read:  36 ||[Link](url)|
+|Read:  37 ||[Link](url)|
+|Read:  38 ||[Link](url)|
+|Read:  39 ||[Link](url)|
+|Read:  40 ||[Link](url)|
+|Read:  41 ||[Link](url)|
+|Read:  42 ||[Link](url)|
+|Read:  43 ||[Link](url)|
