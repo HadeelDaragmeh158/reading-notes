@@ -36,4 +36,27 @@ The rest of this document introduces the following concepts:
  ![Android IPC Bound Service Overview](https://user-images.githubusercontent.com/97829483/165728631-ee26bdda-eb93-48d7-8979-56372daf782a.jpg)
 ## Broadcast receivers
 component that enables the system to deliver events to the app outside of a regular user flow, allowing the app to respond to system-wide broadcast announcements. 
+ 
  ![Bcr](https://image.slidesharecdn.com/6-151015024415-lva1-app6891/95/android-broadcast-receiver-3-638.jpg?cb=1477993095)
+ 
+## Activating components
+- You can start an activity or give it something new to do by passing an Intent to startActivity() or startActivityForResult() (when you want the activity to return a result).
+- With Android 5.0 (API level 21) and later, you can use the JobScheduler class to schedule actions. For earlier Android versions, you can start a service (or give new instructions to an ongoing service) by passing an Intent to startService(). You can bind to the service by passing an Intent to bindService().
+- You can initiate a broadcast by passing an Intent to methods such as sendBroadcast(), sendOrderedBroadcast(), or sendStickyBroadcast().
+- You can perform a query to a content provider by calling query() on a ContentResolver.
+ 
+## The manifest file
+The manifest does a number of things in addition to declaring the app's components, such as the following:
+
+- Identifies any user permissions the app requires, such as Internet access or read-access to the user's contacts.
+- Declares the minimum API Level required by the app, based on which APIs the app uses.
+- Declares hardware and software features used or required by the app, such as a camera, bluetooth services, or a multitouch screen.
+- Declares API libraries the app needs to be linked against (other than the Android framework APIs), such as the Google Maps library.
+
+## Declaring components
+![](https://i.ytimg.com/vi/k9f1vgBThx0/maxresdefault.jpg)
+
+## App Resurces
+An Android app is composed of more than just code—it requires resources that are separate from the source code, such as images, audio files, and anything relating to the visual presentation of the app.
+
+![](https://i.stack.imgur.com/UbsBV.png)
