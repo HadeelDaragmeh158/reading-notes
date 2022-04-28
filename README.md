@@ -12,7 +12,7 @@ Inrested in Java Development :)
 |Growth Mindset|[Link](Growth_Mindset.md)|
 
 
-#JAVA Web App
+# JAVA Web App
 
 | Title    |                                 The Title                                            |  Link                                  |
 | ---------|--------------------------------------------------------------------------------------|----------------------------------------|
@@ -35,7 +35,7 @@ Inrested in Java Development :)
 |Read: 19  |              Spring and Sockets                                                   |[Link](Class19/README.md)|
 
 
-#JAVA Android
+# JAVA Android
 
 | Title    |                                 The Title                                            |  Link                                  |
 | ---------|--------------------------------------------------------------------------------------|----------------------------------------|
