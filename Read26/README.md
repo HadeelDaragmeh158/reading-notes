@@ -9,6 +9,8 @@ You can use c++,java, and kotlin to create Android app.
         - with extention [.aab]
         - contains the contents of an Android app project including some additional metadata that is not required at runtime.
 
+![Screenshot (651)](https://user-images.githubusercontent.com/97829483/165720956-c3c82890-e494-4f88-b9ec-2531707ea39d.png)
+
 
 "The Android system implements the principle of least privilege"
  - It's possible to arrange for two apps to share the same Linux user ID, in which case they are able to access each other's files. To conserve system resources, apps with the same user ID can also arrange to run in the same Linux process and share the same VM. The apps must also be signed with the same certificate.
