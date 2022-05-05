@@ -5,7 +5,8 @@ You supply the data and define how each item looks, and the RecyclerView library
 ![Screenshot (656)](https://user-images.githubusercontent.com/97829483/166918994-7fbaf210-e045-4785-87d6-9eaa846148cf.png)
 
 
-!()[https://imgs.search.brave.com/0ig4mPTQbJwqnjef4q1plNcNPU8Rwz5nq77MBXGxvLQ/rs:fit:1024:576:1/g:ce/aHR0cHM6Ly93d3cu/Zmx1dHRlcnRwb2lu/dC5jb20vd3AtY29u/dGVudC91cGxvYWRz/LzIwMjEvMDgvcmVj/eWNsZXJ2aWV3LWlu/LWFuZHJvaWQtMTAy/NHg1NzYucG5n]
+![Screenshot (657)](https://user-images.githubusercontent.com/97829483/166919505-143e5720-b3de-486b-b7c2-7ac723bd3f34.png)
+
 
 Several different classes work together to build your dynamic list.
 
@@ -25,4 +26,4 @@ When you define your adapter, you need to override three key methods:
 2- onBindViewHolder(): RecyclerView calls this method to associate a ViewHolder with data. The method fetches the appropriate data and uses the data to fill in the view holder's layout. For example, if the RecyclerView displays a list of names, the method might find the appropriate name in the list and fill in the view holder's TextView widget.
 3- getItemCount(): RecyclerView calls this method to get the size of the data set. For example, in an address book app, this might be the total number of addresses. RecyclerView uses this to determine when there are no more items that can be displayed.
 
-[example](https://developer.android.com/guide/topics/ui/layout/recyclerview#implement-adapter) 
+!(example)[https://developer.android.com/guide/topics/ui/layout/recyclerview#implement-adapter] 
