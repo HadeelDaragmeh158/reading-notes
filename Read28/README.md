@@ -26,4 +26,4 @@ When you define your adapter, you need to override three key methods:
 2- onBindViewHolder(): RecyclerView calls this method to associate a ViewHolder with data. The method fetches the appropriate data and uses the data to fill in the view holder's layout. For example, if the RecyclerView displays a list of names, the method might find the appropriate name in the list and fill in the view holder's TextView widget.
 3- getItemCount(): RecyclerView calls this method to get the size of the data set. For example, in an address book app, this might be the total number of addresses. RecyclerView uses this to determine when there are no more items that can be displayed.
 
-!(example)[https://developer.android.com/guide/topics/ui/layout/recyclerview#implement-adapter] 
+[Example](https://developer.android.com/guide/topics/ui/layout/recyclerview#implement-adapter)
