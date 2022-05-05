@@ -2,7 +2,7 @@
 You supply the data and define how each item looks, and the RecyclerView library dynamically creates the elements when they're needed using _RecyclerView_.
 
 
-!()[https://imgs.search.brave.com/fKH5asRlAnJdUJ4VAkRhtkcDMXtQYPvJEexsKB7Xe8M/rs:fit:1200:1125:1/g:ce/aHR0cHM6Ly9pMi53/cC5jb20vd3d3LmFu/ZHJlYXNqYWtsLmNv/bS93cC1jb250ZW50/L3VwbG9hZHMvMjAx/OC8wMS9BbmRyb2lk/LVJlY3ljbGVyVmll/dy1GbG93LnBuZz9z/c2w9MQ]
+!(img)[https://imgs.search.brave.com/fKH5asRlAnJdUJ4VAkRhtkcDMXtQYPvJEexsKB7Xe8M/rs:fit:1200:1125:1/g:ce/aHR0cHM6Ly9pMi53/cC5jb20vd3d3LmFu/ZHJlYXNqYWtsLmNv/bS93cC1jb250ZW50/L3VwbG9hZHMvMjAx/OC8wMS9BbmRyb2lk/LVJlY3ljbGVyVmll/dy1GbG93LnBuZz9z/c2w9MQ]
 
 !()[https://imgs.search.brave.com/0ig4mPTQbJwqnjef4q1plNcNPU8Rwz5nq77MBXGxvLQ/rs:fit:1024:576:1/g:ce/aHR0cHM6Ly93d3cu/Zmx1dHRlcnRwb2lu/dC5jb20vd3AtY29u/dGVudC91cGxvYWRz/LzIwMjEvMDgvcmVj/eWNsZXJ2aWV3LWlu/LWFuZHJvaWQtMTAy/NHg1NzYucG5n]
 
