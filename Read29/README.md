@@ -42,3 +42,53 @@ For each DAO class that is associated with the database, the database class must
 The class must be annotated with a @Database annotation that includes an entities array that lists all of the data entities associated with the database.
 The class must be an abstract class that extends RoomDatabase.
 For each DAO class that is associated with the database, the database class must define an abstract method that has zero arguments and returns an instance of the DAO class.
+
+
+# Defining data using Room entities 
+Each entity corresponds to a table in the associated Room database, and each instance of an entity represents a row of data in the corresponding table.
+**That means you can use Room entities to define your database schema without writing any SQL code.**
+
+## Anatomy of an entity
+                @Entity
+                public class User {
+                    @PrimaryKey
+                    public int id;
+
+                    public String firstName;
+                    public String lastName;
+                }
+
+Room uses the class name as the database table name, by default but you can change it.
+**Table and column names in SQLite are case-insensitive.**
+
+## Define a primary key
+after created your database you need a primary key, room entity must define a primary key.
+
+                @PrimaryKey
+                public int id;
+ 
+[**Define a composite primary key**](https://developer.android.com/training/data-storage/room/defining-data#composite-key)
+
+Room provides several other options for defining FTS-backed entities, including result ordering, tokenizer types, and tables managed as external content. For more details about these options, see the FtsOptions reference.Sometimes, certain fields or groups of fields in a database must be unique. You can enforce this uniqueness property by setting the unique property of an @Index annotation to true.
+
+## [Include AutoValue-based objects](https://developer.android.com/training/data-storage/room/defining-data#autovalue)
+
+# Define relationships between objects 
+Because SQLite is a relational database,ou can define relationships between entities.with Two possible approaches:
+1- **Intermediate data class**
+2- **Multimap return types**
+
+# Define one-to-one relationships
+1- create a class for each of your two entities. One of the entities must include a variable that is a reference to the primary key of the other entity.
+"you must first model the one-to-one relationship between the two entities. To do this, create a new data class where each instance holds an instance of the parent entity and the corresponding instance of the child entity. Add the @Relation annotation to the instance of the child entity, with parentColumn set to the name of the primary key column of the parent entity and entityColumn set to the name of the column of the child entity that references the parent entity's primary key."
+2- add a method to the DAO class that returns all instances of the data class that pairs the parent entity and the child entity. This method requires Room to run two queries, so add the @Transaction annotation to this method to ensure that the whole operation is performed atomically.
+
+# Define one-to-many relationships
+1- create a class for each of your two entities.
+2- add a method to the DAO class that returns all instances of the data class that pairs the parent entity and the child entity. This method requires Room to run two queries, so add the @Transaction annotation to this method to ensure that the whole operation is performed atomically.
+
+# Define many-to-many relationships 
+it like above.
+
+# **Define nested relationships**
+in the first you need to do the first relation between 2 classes or tabls, then, define a data class that represents this relationship, create another data class that models the relationship between another table from your set and the first relationship class, "nesting" the existing relationship within the new one.
