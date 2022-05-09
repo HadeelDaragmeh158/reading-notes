@@ -42,7 +42,7 @@ Inrested in Java Development :)
 |Read:  26 |Android Fundamentals|[Link](Read26/README.md)|
 |Read:  27 | Intents, Activities, and SharedPreferences| [Link](Read27/README.md)|
 |Read:  28 | RecyclerView |[Link](Read28/README.md)|
-|Read:  29 ||[Link](Read29/README.md)|
+|Read:  29 |Save data in a local database using Room|[Link](Read29/README.md)|
 |Read:  30 ||[Link](url)|
 |Read:  31 ||[Link](url)|
 |Read:  32 ||[Link](url)|
