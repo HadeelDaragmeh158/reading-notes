@@ -92,3 +92,25 @@ it like above.
 
 # **Define nested relationships**
 in the first you need to do the first relation between 2 classes or tabls, then, define a data class that represents this relationship, create another data class that models the relationship between another table from your set and the first relationship class, "nesting" the existing relationship within the new one.
+
+
+# Accessing data using Room DAOs 
+There are two types of DAO methods that define database interactions:
+
+1- Convenience methods that let you insert, update, and delete rows in your database without writing any SQL code.
+2- Query methods that let you write your own SQL query to interact with the database.
+
+## Convenience methods
+1- [Insert](https://developer.android.com/training/data-storage/room/accessing-data#convenience-insert)
+      you can define methods that insert their parameters into the appropriate table in the database. 
+2- [Update](https://developer.android.com/training/data-storage/room/accessing-data#convenience-update)
+      you can define methods that update specific rows in a database table.
+3- [delete](https://developer.android.com/training/data-storage/room/accessing-data#convenience-delete)
+      define methods that delete specific rows from a database table. 
+
+## Query methods
+**[SELECT](https://developer.android.com/training/data-storage/room/accessing-data#simple-queries)**
+
+## Special return types
+DAOs can return PagingSource objects for use with Paging 3.
+[Link for examples ](https://developer.android.com/training/data-storage/room/accessing-data#paging-integration)
