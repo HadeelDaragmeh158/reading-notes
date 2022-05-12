@@ -44,8 +44,7 @@ Inrested in Java Development :)
 |Read:  28 | RecyclerView |[Link](Read28/README.md)|
 |Read:  29 |Save data in a local database using Room|[Link](Read29/README.md)|
 |Read:  30 ||[Link](url)|
-|Read:  31 |
-What Is AWS Amplify|[Link](Read31/README.md)|
+|Read:  31 |What Is AWS Amplify|[Link](Read31/README.md)|
 |Read:  32 ||[Link](url)|
 |Read:  33 ||[Link](url)|
 |Read:  34 ||[Link](url)|
