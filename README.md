@@ -47,7 +47,7 @@ Inrested in Java Development :)
 |Read:  31 |What Is AWS Amplify|[Link](Read31/README.md)|
 |Read:  32 ||[Link](url)|
 |Read:  33 ||[Link](url)|
-|Read:  34 ||[Link](url)|
+|Read:  34 |Monetization|[Link](Read34/README.md)|
 |Read:  35 ||[Link](url)|
 |Read:  36 ||[Link](url)|
 |Read:  37 ||[Link](url)|
