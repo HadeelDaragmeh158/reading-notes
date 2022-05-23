@@ -34,12 +34,12 @@ ______________________________________
 ### Complete Graphs
     A complete graph is a graph in which each pair of graph vertices is connected by an edge.
     
-    ![CompleteGraph](https://imgs.search.brave.com/BhpNHXGkNQcEDCPnv5DF9SVftnhK9wAQzHQV2YUHTRE/rs:fit:632:225:1/g:ce/aHR0cHM6Ly90c2U0/Lm1tLmJpbmcubmV0/L3RoP2lkPU9JUC5m/R2NHSTFJMVN5MVRq/SDNRWmpQQmlBSGFG/aiZwaWQ9QXBp)
+   ![CompleteGraph](https://imgs.search.brave.com/BhpNHXGkNQcEDCPnv5DF9SVftnhK9wAQzHQV2YUHTRE/rs:fit:632:225:1/g:ce/aHR0cHM6Ly90c2U0/Lm1tLmJpbmcubmV0/L3RoP2lkPU9JUC5m/R2NHSTFJMVN5MVRq/SDNRWmpQQmlBSGFG/aiZwaWQ9QXBp)
 
 ### Connected
     A graph is connected if any two vertices of the graph are connected by a path.
     
-    ![ConnectedGraph](https://imgs.search.brave.com/vtDb0MJUpH-AAVqcAdLHP46vd4IXMPp9MwLNVmUezYw/rs:fit:728:546:1/g:ce/aHR0cHM6Ly9pbWFn/ZS5zbGlkZXNoYXJl/Y2RuLmNvbS9ub3Rh/bWF0aGRpc2NyZXRl/Z3JhcGh0aGVvcnkt/MTExMTEwMjEzNTEy/LXBocGFwcDAxLzk1/L25vdGEtbWF0aC1k/aXNjcmV0ZS1ncmFw/aC10aGVvcnktMTEt/NzI4LmpwZz9jYj0x/MzIwOTYwOTQ2)
+  ![ConnectedGraph](https://imgs.search.brave.com/vtDb0MJUpH-AAVqcAdLHP46vd4IXMPp9MwLNVmUezYw/rs:fit:728:546:1/g:ce/aHR0cHM6Ly9pbWFn/ZS5zbGlkZXNoYXJl/Y2RuLmNvbS9ub3Rh/bWF0aGRpc2NyZXRl/Z3JhcGh0aGVvcnkt/MTExMTEwMjEzNTEy/LXBocGFwcDAxLzk1/L25vdGEtbWF0aC1k/aXNjcmV0ZS1ncmFw/aC10aGVvcnktMTEt/NzI4LmpwZz9jYj0x/MzIwOTYwOTQ2)
 
 ### Disconnected
     A graph is disconnected if at least two vertices of the graph are not connected by a path. If a graph G is disconnected, then every maximal connected subgraph of G is called a connected component of the graph G.
