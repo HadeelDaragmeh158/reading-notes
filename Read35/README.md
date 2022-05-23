@@ -43,3 +43,24 @@ ______________________________________
 
 ### Disconnected
     A graph is disconnected if at least two vertices of the graph are not connected by a path. If a graph G is disconnected, then every maximal connected subgraph of G is called a connected component of the graph G.
+    
+__________________________________________
+
+## Acyclic vs Cyclic
+__________________________________________
+
+A cyclic graph has cycles meaning you can start from some node and follow a path such that you arrive at the same node you began. This is trivial for undirected graphs as a bidirectional edge can be viewed as two opposite directed edges which by themselves form a cycle. However, if you limit the path to a set of edges so no edge may be crossed once it does make undirected acyclic graphs slightly more interesting.
+
+Acyclic graphs contain no such cycles. Directed acyclic graphs (DAGs) are worth looking into as they are quite intuitive and provide a fundamental understanding of cyclic and acyclic graph theory.
+
+__________________________________________
+
+## Graph Representation
+__________________________________________
+
+We represent graphs through:
+
+- Adjacency Matrix
+- Adjacency List
+
+![adj](https://imgs.search.brave.com/gqWp2QeDkatDJjZ97Z0XNJRcJvUulT1UsGcZG7ChC9E/rs:fit:1200:720:1/g:ce/aHR0cHM6Ly9pLnl0/aW1nLmNvbS92aS9a/VHl5WnE1NmRaQS9t/YXhyZXNkZWZhdWx0/LmpwZw)
