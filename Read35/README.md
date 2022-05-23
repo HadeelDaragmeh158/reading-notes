@@ -101,7 +101,7 @@ _________________________________________
 ###  BFS:
    Start at a specific vertex/node when calling the BreadthFirst() method. 
    
-         ! -------
+         
            BFS (G, s)                   //Where G is the graph and s is the source node
               let Q be queue.
               Q.enqueue( s ) //Inserting s in queue until all its neighbour vertices are marked.
@@ -116,5 +116,76 @@ _________________________________________
                        if w is not visited 
                                 Q.enqueue( w )             //Stores w in Q to further visit its neighbour
                                 mark w as visited.
-           ------- !
+           
    
+![imgex](https://he-s3.s3.amazonaws.com/media/uploads/0dbec9e.jpg)
+
+
+### DFS
+
+1- Start by putting any one of the graph's vertices on top of a stack.
+2- Take the top item of the stack and add it to the visited list.
+3- Create a list of that vertex's adjacent nodes. Add the ones which aren't in the visited list to the top of the stack.
+4- Keep repeating steps 2 and 3 until the stack is empty.
+
+            // DFS algorithm in Java
+
+            import java.util.*;
+
+            class Graph {
+              private LinkedList<Integer> adjLists[];
+              private boolean visited[];
+
+              // Graph creation
+              Graph(int vertices) {
+                adjLists = new LinkedList[vertices];
+                visited = new boolean[vertices];
+
+                for (int i = 0; i < vertices; i++)
+                  adjLists[i] = new LinkedList<Integer>();
+              }
+
+              // Add edges
+              void addEdge(int src, int dest) {
+                adjLists[src].add(dest);
+              }
+
+              // DFS algorithm
+              void DFS(int vertex) {
+                visited[vertex] = true;
+                System.out.print(vertex + " ");
+
+                Iterator<Integer> ite = adjLists[vertex].listIterator();
+                while (ite.hasNext()) {
+                  int adj = ite.next();
+                  if (!visited[adj])
+                    DFS(adj);
+                }
+              }
+
+              public static void main(String args[]) {
+                Graph g = new Graph(4);
+
+                g.addEdge(0, 1);
+                g.addEdge(0, 2);
+                g.addEdge(1, 2);
+                g.addEdge(2, 3);
+
+                System.out.println("Following is Depth First Traversal");
+
+                g.DFS(2);
+              }
+            }
+            
+            
+___________________________________________
+
+## Real World Uses of Graphs
+___________________________________________
+Graphs are extremely popular when it comes to it’s uses. Here are just a few examples of graphs in use:
+
+- GPS and Mapping
+- Driving Directions
+- Social Networks
+- Airline Traffic
+- Netflix uses graphs for suggestions of products
