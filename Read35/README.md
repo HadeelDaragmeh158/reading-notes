@@ -21,3 +21,14 @@ There is tow type of graphs :
 - Undirected graph.
 
     ![dirctAnndUndirect](https://imgs.search.brave.com/YvoSY7IoANnX23N1tLXiK5ceffpDUUpeS9CzAnaLDXk/rs:fit:793:633:1/g:ce/aHR0cDovL3BlZGlh/YS5jb20vd3AtY29u/dGVudC91cGxvYWRz/LzIwMTkvMDEvRGlm/ZmVyZW5jZS1CZXR3/ZWVuLURpcmVjdGVk/LWFuZC1VbmRpcmVj/dGVkLUdyYXBoLUNv/bXBhcmlzb24tU3Vt/bWFyeS5qcGc)
+    
+    "Unlike an undirected graph, a Digraph has direction. Each node is directed at another node with a specific requirement of what node should be referenced next."
+    
+A directed graph is a type of graph that contains ordered pairs of vertices while an undirected graph is a type of graph that contains unordered pairs of vertices. Thus, this is the main difference between directed and undirected graph.
+
+______________________________________
+
+## Complete vs Connected vs Disconnected
+______________________________________
+
+### Complete Graphs
