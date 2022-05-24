@@ -49,7 +49,7 @@ Inrested in Java Development :)
 |Read:  33 ||[Link](url)|
 |Read:  34 |Monetization|[Link](Read34/README.md)|
 |Read:  35 |Graph|[Link](Read35/README.md)|
-|Read:  36 ||[Link](url)|
+|Read:  36 |Amplify and Cognito|[Link](Read36/README.md)|
 |Read:  37 ||[Link](url)|
 |Read:  38 ||[Link](url)|
 |Read:  39 ||[Link](url)|
