@@ -22,3 +22,31 @@ in this read you can  learn about
                     
                     
 - Then we can now check the **[current auth session]([url](https://docs.amplify.aws/lib/auth/getting-started/q/platform/android/#check-the-current-auth-session))**.                    
+____________________________________
+
+# Sign In
+____________________________________
+1- Register a user
+    each user has oun username and secret passowrd to regester your app. and here you should let user enter the Email to do second step.
+
+2-  confirm the user. 
+    confirmation code will be sent to the email id provided during sign up.
+    
+    
+         Confirm signUp succeeded 
+         //this message tell you if the sign up flow is complete
+         
+3- Sign in a user :
+ After you pass in Regester you should sign in as user, your data will be in database, After the user enters the username and password you can start the sign in flow  
+ 
+           Amplify.Auth.signIn(
+            "username",
+            "password",
+            result -> Log.i("AuthQuickstart", result.isSignInComplete() ? "Sign in succeeded" : "Sign in not complete"),
+            error -> Log.e("AuthQuickstart", error.toString())
+        );
+        
+        
+## Multi-factor authentication 
+"If you create or update an SMS MFA configuration for your Cognito user pool, the Cognito service will send a test SMS message to an internal number in order to verify your configuration. You will be charged for these test messages by Amazon SNS."
+
