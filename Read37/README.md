@@ -1,0 +1,9 @@
+# Amazon S3 
+its a Amazon Simple Storage Service.
+provides management features so that you can optimize, organize, and configure access to your data to meet your specific business, organizational, and compliance requirements.
+
+### Storage classes
+there is alot of  storage classes designed for different use cases.
+with S3 Intelligent-Tiering, you can store data with unknown access patterns
+
+![](https://imgs.search.brave.com/2aAU5lHkUBDurW2D4H8Q1t65yAqEf2a-QOwwpdmWU38/rs:fit:1200:720:1/g:ce/aHR0cHM6Ly9pLnl0/aW1nLmNvbS92aS94/Wl9UY2g4N21Ydy9t/YXhyZXNkZWZhdWx0/LmpwZw)
