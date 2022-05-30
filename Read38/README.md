@@ -55,13 +55,13 @@ ____________________________
    - Extras 
    - Flags
   
- ### [Example explicit intent]([url](https://developer.android.com/guide/components/intents-filters#ExampleExplicit))
- ### [Example implicit intent]([url](https://developer.android.com/guide/components/intents-filters#ExampleSend))
+ ### [Example explicit intent]((https://developer.android.com/guide/components/intents-filters#ExampleExplicit))
+ ### [Example implicit intent]((https://developer.android.com/guide/components/intents-filters#ExampleSend))
   
  ![](https://developer.android.com/images/guide/components/nested-pending-intent.svg)
   
  ## Receiving an implicit intent
-  #### [Example filters]([url](https://developer.android.com/guide/components/intents-filters#ExampleFilters))
+  #### [Example filters]((https://developer.android.com/guide/components/intents-filters#ExampleFilters))
 
 ## Using a pending intent
   
