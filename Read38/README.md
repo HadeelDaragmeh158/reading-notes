@@ -2,6 +2,7 @@ ____________________________
 
 # Intent Filters
 ____________________________
+in the first intent object carries information that the Android system uses to determine which component to start (such as the exact component name or component category that should receive the intent), plus information that the recipient component uses in order to properly perform the action (such as the action to take and the data to act upon).
 
 ## [Add **intent-filter**]([url](https://developer.android.com/training/basics/intents/filters#AddIntentFilter)) 
   it allows other apps to start your activity, "In order to properly define which intents your activity can handle, each intent filter you add should be as specific as possible in terms of the type of action and data the activity accepts."
@@ -47,13 +48,13 @@ ____________________________
  ![Implicit intents](https://developer.android.com/images/components/intent-filters_2x.png)
   
  ## Building an intent
-  
-   - Component name
-   - Action
-   - Data 
-   - Category
-   - Extras 
-   - Flags
+  _ **primary information in Intent is**: _
+   - **Component name**: The name of the component to start.
+   - **Action** : to took place and is being reported.
+   - **Data**: The URI (a Uri object) that references the data to be acted on and/or the MIME type of that data. The type of data supplied is generally dictated by the intent's action. 
+   - **Category**: 
+   - **Extras**: to carry additional information required to accomplish the requested action.
+   - **Flags**
   
  ##### [Example explicit intent](https://developer.android.com/guide/components/intents-filters#ExampleExplicit)
  ##### [Example implicit intent](https://developer.android.com/guide/components/intents-filters#ExampleSend)
