@@ -18,3 +18,6 @@ with S3 Intelligent-Tiering, you can store data with unknown access patterns
 
 ### Access management 
 **Amazon S3** provides features for auditing and managing access to your buckets and objects.
+
+
+Amazon S3 now delivers strong read-after-write consistency automatically for all applications. Unlike other cloud providers, Amazon S3 delivers strong read-after-write consistency for any storage request, without changes to performance or availability, without sacrificing regional isolation for applications, and at no additional cost.
