@@ -30,3 +30,39 @@ ____________________________
   
  # Intents and Intent Filters 
  ___________________________________________
+  
+  
+  you can reuist an actions from another comonents with intent, intents facilitate communication between components in several ways
+
+ - Starting an activity
+ - Starting a service
+ - Delivering a broadcast
+ 
+  
+## Intent types
+
+  - Explicit intents
+  - Implicit intents
+  
+ ![Implicit intents](https://developer.android.com/images/components/intent-filters_2x.png)
+  
+ ## Building an intent
+  
+   - Component name
+   - Action
+   - Data 
+   - Category
+   - Extras 
+   - Flags
+  
+ ### [Example explicit intent]([url](https://developer.android.com/guide/components/intents-filters#ExampleExplicit))
+ ### [Example implicit intent]([url](https://developer.android.com/guide/components/intents-filters#ExampleSend))
+  
+ ![](https://developer.android.com/images/guide/components/nested-pending-intent.svg)
+  
+ ## Receiving an implicit intent
+  #### [Example filters]([url](https://developer.android.com/guide/components/intents-filters#ExampleFilters))
+
+## Using a pending intent
+  
+## Intent resolution 
