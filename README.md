@@ -51,7 +51,7 @@ Inrested in Java Development :)
 |Read:  35 |Graph|[Link](Read35/README.md)|
 |Read:  36 |Amplify and Cognito|[Link](Read36/README.md)|
 |Read:  37 |S3|[Link](Read37/README.md)|
-|Read:  38 ||[Link](url)|
+|Read:  38 |Intent|[Link](Read38/README.md)|
 |Read:  39 ||[Link](url)|
 |Read:  40 ||[Link](url)|
 |Read:  41 ||[Link](url)|
