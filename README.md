@@ -52,7 +52,7 @@ Inrested in Java Development :)
 |Read:  36 |Amplify and Cognito|[Link](Read36/README.md)|
 |Read:  37 |S3|[Link](Read37/README.md)|
 |Read:  38 |Intent|[Link](Read38/README.md)|
-|Read:  39 ||[Link](url)|
+|Read:  39 |Kinesis|[Link](Read39/README.md)|
 |Read:  40 ||[Link](url)|
 |Read:  41 ||[Link](url)|
 |Read:  42 ||[Link](url)|
