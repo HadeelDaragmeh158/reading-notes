@@ -10,4 +10,5 @@ then :
 3- [Select an ad format]([url](https://developers.google.com/admob/android/quick-start#select_an_ad_format))
 
 ## Monetize with ease
-you choose the monetization strategy that works best for your business
+you choose the monetization strategy that works best for your business, paid app by setting a price that the user must pay before they can download and install it and in-app products.
+
