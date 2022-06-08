@@ -28,3 +28,8 @@ __________________________________
 ![ing](https://ethicalos.org/wp-content/uploads/2018/07/Screen-Shot-2018-07-05-at-8.18.27-PM.png)
 
 ![](https://ethicalos.org/wp-content/uploads/2018/07/Screen-Shot-2018-07-05-at-8.18.27-PM.png)
+### What’s in the Toolkit??
+its a building a startup takes a lot more than just funding,
+ -  A checklist of 8 risk zones
+ -  14 scenarios
+ -  7 future-proofing strategies    
