@@ -56,4 +56,4 @@ Inrested in Java Development :)
 |Read:  40 ||[Link](url)|
 |Read:  41 ||[Link](url)|
 |Read:  42 |[Ethics](Read42/README2.md)|[Location](Read42/README.md)|
-|Read:  43 ||[Link](url)|
+|Read:  43 ||[Link](Reaad43/README.md)|
