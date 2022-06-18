@@ -45,7 +45,7 @@ Inrested in Java Development :)
 |Read:  29 |Save data in a local database using Room|[Link](Read29/README.md)|
 |Read:  30 |Hash table |[Link](Read30/README.md)|
 |Read:  31 |What Is AWS Amplify|[Link](Read31/README.md)|
-|Read:  32 ||[Link](url)|
+|Read:  32 |Serverless and Amplify|[Link](Read32/README.md)|
 |Read:  33 |GraphQL |[Link](Read33/README.md)|
 |Read:  34 |Monetization|[Link](Read34/README.md)|
 |Read:  35 |Graph|[Link](Read35/README.md)|
