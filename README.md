@@ -46,7 +46,7 @@ Inrested in Java Development :)
 |Read:  30 ||[Link](url)|
 |Read:  31 |What Is AWS Amplify|[Link](Read31/README.md)|
 |Read:  32 ||[Link](url)|
-|Read:  33 ||[Link](url)|
+|Read:  33 |GraphQL |[Link](Read33/README.md)|
 |Read:  34 |Monetization|[Link](Read34/README.md)|
 |Read:  35 |Graph|[Link](Read35/README.md)|
 |Read:  36 |Amplify and Cognito|[Link](Read36/README.md)|
