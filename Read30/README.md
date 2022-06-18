@@ -44,5 +44,14 @@ we can search for data by create contains function it  used to check whether a p
  _________________________________________________
  A hash table is a data structure that is used to store keys/value pairs. It uses a hash function to compute an index into an array in which an element will be inserted or searched. By using a good hash function, hashing can work well. Under reasonable assumptions, the average time required to search for an element in a hash table is O(1).
 
- in this [_link_]([url](https://www.hackerearth.com/practice/data-structures/hash-tables/basics-of-hash-tables/tutorial/)) you can see the good example and toturial about hash table 
+ in this [_link_]([url](https://www.hackerearth.com/practice/data-structures/hash-tables/basics-of-hash-tables/tutorial/)) you can see the good example and toturial
+ about hash table and all of method in the hash table class we an need to empliment the class.
+ 
 ![example](https://he-s3.s3.amazonaws.com/media/uploads/7ea3425.jpg)
+
+
+_________________________________________________________
+
+# Hash in [WIKI]([url](https://en.wikipedia.org/wiki/Hash_table))
+_________________________________________________________
+![wikiex](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Hash_table_5_0_1_1_1_1_1_LL.svg/675px-Hash_table_5_0_1_1_1_1_1_LL.svg.png)
