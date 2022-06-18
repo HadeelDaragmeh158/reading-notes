@@ -13,3 +13,4 @@ _____________________________________
 # Using CompletableFuture as a Simple Future
 _____________________________________
 
+We can use CompletableFuture in two ways 🔢
