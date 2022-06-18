@@ -52,3 +52,9 @@ using _CompletableFuture API _ we have the ability to combine CompletableFuture 
 | return a new Completion Stage.              |   return a new Completion Stage.              | 
 
 CompletableFuture methods then it’s better to use thenCompose().
+ The CompletableFuture.allOf static method allows to wait for completion of all of the Futures provided as a var-arg 
+ that means whene you useing allOf() function whith your workes its allow you to wait for all of provided futures.
+ 
+ ### Handling Errors
+ ### Async Methods
+ ### JDK 9 CompletableFuture API
